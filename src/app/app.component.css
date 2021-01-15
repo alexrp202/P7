@@ -1,0 +1,40 @@
+.bg{
+background-color: #789DFD;
+color: white;
+}
+.header{
+
+padding: 20px;
+margin-left: 40px;
+}
+h1{
+  font-size: 80px;
+  margin-bottom: 20px;
+
+}
+#texto{
+  display: inline-block;
+}
+#bodyArticle{
+
+  width: 60%;
+}
+
+#imagen{
+  height: 25%;
+  width: 20%;
+}
+
+h2{
+display: inline-block;
+font-size: 20px;
+}
+p{
+  display: inline-block;
+  font-size: 12px;
+
+}
+
+#segundoBoton{
+  margin-left: 2px;
+}
