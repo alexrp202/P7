@@ -12,16 +12,14 @@ h1{
   margin-bottom: 20px;
 
 }
-#texto{
-  display: inline-block;
-}
+
 #bodyArticle{
 
   width: 60%;
 }
 
 #imagen{
-  height: 25%;
+  height: 50%;
   width: 20%;
 }
 
@@ -37,4 +35,7 @@ p{
 
 #segundoBoton{
   margin-left: 2px;
+}
+#article{
+border: black 1px solid;
 }
